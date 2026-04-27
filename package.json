@@ -1,0 +1,12 @@
+{
+  "name": "rest-api-clientes",
+  "version": "1.0.0",
+  "description": "REST API con Express.js - Caso de estudio modificado",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.22.1"
+  }
+}
